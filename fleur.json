@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Nem1x",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 11S",
+			"filename": "",
+			"download": "",
+			"timestamp": ,
+			"md5": "",
+			"sha256": "",
+			"size": ,
+			"version": "",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/mi6781_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/Nem1xDev",
+			"telegram": "https://t.me/mi6781_chat",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
