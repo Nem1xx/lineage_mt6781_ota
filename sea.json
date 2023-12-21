@@ -1,13 +1,13 @@
 {
 	"response": [
-		{
-			"datetime": 1700342114,
-			"filename": "lineage-20.0-20231118-UNOFFICIAL-sea.zip",
-			"id": "47289fe56300c23028065f1eb645be3e9bb269ac7886b399b08790fbbb97d83f",
-			"romtype": "UNOFFICIAL",
-			"size": 1217668615,
-			"url": "https://github.com/Nem1xx/lineage_mt6781_ota/releases/download/lineage-20.0-20231118-UNOFFICIAL-sea/lineage-20.0-20231118-UNOFFICIAL-sea.zip",
-			"version": "20.0"
-		}
+	  {
+		"datetime": "1703106827",
+		"filename": "lineage-20.0-20231220-UNOFFICIAL-sea.zip",
+		"id": "01ca9e0cb5cbd66ca54993cfc41c9ad7e9e7ecd205e48cbac080e9d154bd7e68",
+		"romtype": "UNOFFICIAL",
+		"size": "1325109091",
+		"url": "https://github.com/Nem1xx/lineage_mt6781_ota/releases/download/lineage-20.0-20231220-UNOFFICIAL-sea/lineage-20.0-20231220-UNOFFICIAL-sea.zip",
+		"version": "20.0"
+	  }
 	]
-}
+  }
