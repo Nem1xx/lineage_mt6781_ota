@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1713282449",
+      "filename": "lineage-20.0-20240416-UNOFFICIAL-fleur.zip",
+      "id": "ec2c4435b7eba8d2dcfffcbfa0028986a65e661842861225c3f1d52068b12c5a",
+      "romtype": "UNOFFICIAL",
+      "size": "1085060721",
+      "url": "https://github.com/fakemanoan/LineageOS-Releases/releases/download/A13-16042024/lineage-20.0-20240416-UNOFFICIAL-fleur.zip",
+      "version": "20.0"
+    }
+  ]
+}
