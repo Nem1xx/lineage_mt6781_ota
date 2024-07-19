@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1720434335",
-      "filename": "lineage-20.0-20240708-UNOFFICIAL-fleur.zip",
-      "id": "94c8658b57e3963d6530a3788f3313327dedbff8ce3c53daadc343b1f7b88085",
+      "datetime": "1721386052",
+      "filename": "lineage-20.0-20240719-UNOFFICIAL-fleur.zip",
+      "id": "b8436d32e5179864e10ae05c95880399583cd00af8f38f9e044dfe5180451c31",
       "romtype": "UNOFFICIAL",
-      "size": "1039328917",
-      "url": "https://github.com/Nem1xx/lineage_mt6781_ota/releases/download/lineage-20.0-20240708-UNOFFICIAL-fleur/lineage-20.0-20240708-UNOFFICIAL-fleur.zip",
+      "size": "1039427331",
+      "url": "https://github.com/Nem1xx/lineage_mt6781_ota/releases/download/lineage-20.0-20240719-UNOFFICIAL-fleur/lineage-20.0-20240719-UNOFFICIAL-fleur.zip",
       "version": "20.0"
     }
   ]
