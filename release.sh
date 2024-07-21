@@ -81,9 +81,7 @@ done
 
 echo "RELEASE TAG:" $RELEASETAG
 
-RELEASEMONTH=$(date -d @"$TIMESTAMP" +%B)
-RELEASEYEAR=$(date -d @"$TIMESTAMP" +%Y)
-RELEASETITLE="[LINEAGE-$ROMVERSION] $RELEASEMONTH $RELEASEYEAR Update"
+RELEASETITLE="${FILENAME}"
 echo "CREATING RELEASE"
 gh release create $RELEASETAG --title "$RELEASETITLE" -F notes.md
 
@@ -93,14 +91,6 @@ do
 ROMFILE=$args
 ROMZIP=$(basename $ROMFILE)
 
-echo "Uploading" $ROMZIP
-gh release upload $RELEASETAG $ROMFILE
-done
-echo -e "\nUpload Complete"
-
-echo "Automatically updating OTA jsons"
-git commit -m "Auto update JSONs for OTA"
-git push origin main
 echo "end of json update"
 echo ""
 echo "################"
