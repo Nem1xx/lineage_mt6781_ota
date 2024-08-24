@@ -81,16 +81,6 @@ done
 
 echo "RELEASE TAG:" $RELEASETAG
 
-RELEASETITLE="${FILENAME}"
-echo "CREATING RELEASE"
-gh release create $RELEASETAG --title "$RELEASETITLE" -F notes.md
-
-echo "Uploading files..."
-for args in "$@"
-do
-ROMFILE=$args
-ROMZIP=$(basename $ROMFILE)
-
 echo "end of json update"
 echo ""
 echo "################"
